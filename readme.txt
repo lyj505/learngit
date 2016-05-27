@@ -14,4 +14,9 @@ Creating a new branch is quick AND simple.
 Creating a new branch is quick and simple.
 test
 once more.
+<<<<<<< HEAD
 改一改2
+=======
+我在这里改一改
+>>>>>>> feature2
+这样就好了？？
