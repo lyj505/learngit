@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git is so bad.
 twice something
+Creating a new branch is quick.
